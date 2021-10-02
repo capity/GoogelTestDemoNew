@@ -4,5 +4,8 @@
 	"g_banner" : "ca-app-pub-3940256099942544/6300978111",
 	"g_open" : "ca-app-pub-3940256099942544/3419835294",
 	"load_time" : 5,
-	"show_time" : 7
+	"show_time" : 7,
+	"random_number" : 6,
+ 	"show_number" : 2,
+ 	"on_back_random" : 1
 	}
